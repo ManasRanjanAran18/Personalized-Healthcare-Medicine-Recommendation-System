@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💊 Personalized Healthcare & Medicine Recommendation System
 
 A beginner-friendly, end-to-end machine learning project. The user selects their
@@ -102,3 +103,6 @@ git push -u origin main
 *Built an end-to-end symptom-based disease prediction and personalized medicine recommendation system
 (Logistic Regression / Random Forest / XGBoost, NLTK + TF-IDF similarity) with age and allergy filtering;
 deployed as a Streamlit web app.*
+=======
+
+>>>>>>> 52751c1138895a4a8d3d95955330a7dd52f9fa35
