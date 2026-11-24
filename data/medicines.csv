@@ -1,0 +1,24 @@
+medicine,drug_class,used_for,side_effects,allergy_group,min_age
+Paracetamol,pain reliever and fever reducer,Common Cold;Influenza;Migraine;Sore Throat;Muscle Strain,rare skin rash; liver damage if overdosed,Paracetamol,2
+Ibuprofen,NSAID pain reliever,Influenza;Migraine;Muscle Strain;Sore Throat,stomach upset; heartburn; dizziness,NSAID,12
+Aspirin,NSAID pain reliever,Migraine;Muscle Strain,stomach irritation; bleeding risk; heartburn,NSAID,16
+Naproxen,NSAID pain reliever,Migraine;Muscle Strain,stomach upset; heartburn; headache,NSAID,12
+Diclofenac Gel,topical NSAID gel,Muscle Strain,skin irritation; rash,NSAID,14
+Menthol Pain Balm,topical pain relief balm,Muscle Strain,mild skin irritation,None,12
+Cetirizine,antihistamine for allergy,Allergic Rhinitis;Common Cold,drowsiness; dry mouth; tiredness,Antihistamine,6
+Loratadine,antihistamine for allergy,Allergic Rhinitis,headache; dry mouth; mild tiredness,Antihistamine,6
+Chlorpheniramine,antihistamine for allergy and cold,Common Cold;Allergic Rhinitis,strong drowsiness; dry mouth; blurred vision,Antihistamine,6
+Saline Nasal Spray,saline nasal decongestant,Common Cold;Allergic Rhinitis,mild nasal irritation,None,1
+Dextromethorphan Syrup,cough suppressant syrup,Common Cold;Influenza,drowsiness; dizziness; nausea,Cough Suppressant,12
+Throat Lozenges,soothing throat lozenges,Sore Throat;Common Cold,mild mouth irritation,None,6
+Omeprazole,proton pump inhibitor acid reducer,Acid Reflux,headache; nausea; diarrhea,Acid Reducer,12
+Famotidine,H2 blocker acid reducer,Acid Reflux,headache; dizziness; constipation,Acid Reducer,12
+Calcium Carbonate Antacid,antacid for heartburn,Acid Reflux,constipation; gas,Antacid,6
+Oral Rehydration Salts,rehydration salts,Gastroenteritis,rarely nausea,None,0
+Loperamide,antidiarrheal,Gastroenteritis,constipation; dizziness; bloating,Antidiarrheal,12
+Zinc Supplement,zinc supplement for recovery,Gastroenteritis,nausea; metallic taste,None,1
+Lactulose,osmotic laxative,Constipation,gas; bloating; stomach cramps,Laxative,6
+Psyllium Husk,fiber supplement,Constipation,bloating; gas,None,6
+Bisacodyl,stimulant laxative,Constipation,stomach cramps; diarrhea,Laxative,12
+Clotrimazole Cream,antifungal cream,Fungal Skin Infection,mild burning; redness,Antifungal,2
+Terbinafine Cream,antifungal cream,Fungal Skin Infection,itching; skin irritation,Antifungal,12
